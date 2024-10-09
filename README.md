@@ -14,25 +14,20 @@ This midterm exam is designed to assess your understanding of Linear Regression 
 - Explain your choices and reasoning to the instructor.
 
 **Activities**
-Dataset Assignment
-
-Each pair will be provided with links to specific datasets suitable for both Linear and Logistic Regression analyses.
-Dataset Analysis
-
-Explore the datasets thoroughly.
-Identify all variables and understand their types (continuous, categorical).
-Determine which variables are suitable as dependent variables for Linear and Logistic Regression.
-Preparation for Instructor Meeting
-
+1. Dataset Assignment
+- Each pair will be provided with links to specific datasets suitable for both Linear and Logistic Regression analyses.
+2. Dataset Analysis
+- Explore the datasets thoroughly.
+- Identify all variables and understand their types (continuous, categorical).
+- Determine which variables are suitable as dependent variables for Linear and Logistic Regression.
+3. Preparation for Instructor Meeting
 a. Dependent Continuous Variable for Linear Regression
-
-Select a continuous variable from your dataset to use as the dependent variable in Linear Regression.
-Prepare an explanation of why this variable is appropriate for Linear Regression.
+- Tell me the continuous variable from your dataset to use as the dependent variable in Linear Regression.
+- Prepare an explanation of why this variable is appropriate for Linear Regression.
 b. Categories for Logistic Regression
-
-Select a categorical variable from your dataset to use as the dependent variable in Logistic Regression.
-Prepare an explanation of why this variable is suitable for Logistic Regression.
-Instructor Meeting
+- Tell me the categorical variable from your dataset to use as the dependent variable in Logistic Regression.
+- Prepare an explanation of why this variable is suitable for Logistic Regression.
+4. Instructor Meeting
 
 Before class dismissal, present the following to the instructor:
 
