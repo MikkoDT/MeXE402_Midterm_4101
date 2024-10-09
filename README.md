@@ -105,7 +105,7 @@ b. Categories for Logistic Regression
 - Collaboration and equal contribution between partners.
 **5. Presentaton of the Repository and Findings (20%)**
 
-Linear Regression
+### Linear Regression
 
 "1. Boston Housing Dataset
 Link: https://www.kaggle.com/datasets/vikrishnan/boston-house-prices   
@@ -153,3 +153,64 @@ Description: This dataset contains information about employee satisfaction ratin
 
 "12. California Housing Prices: This dataset is a classic benchmark for regression tasks. It contains information about housing in California, including features like median income, housing median age, and total rooms, with the dependent variable being the median house value.
 Link: https://www.kaggle.com/datasets/camnugent/california-housing-prices"
+
+"13. Bike Sharing Dataset
+Link: https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset
+Description: This dataset contains data about daily bike rentals and factors influencing rental counts, such as weather conditions and seasonal effects. It can be used to predict the number of rentals based on these features using linear regression."
+
+"14. World Happiness Report
+Link: https://www.kaggle.com/datasets/unsdsn/world-happiness
+Description: This dataset contains information about happiness scores and various contributing factors such as GDP per capita, social support, and life expectancy across different countries. It can be used to predict happiness scores based on these features using linear regression."
+
+"1. Diabetes Dataset
+Link: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database   
+Description: This dataset contains information about patients, including their medical attributes. It's a suitable dataset for predicting the presence or absence of diabetes using logistic regression."
+
+"2. Link: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009   
+Description: This dataset contains information about wine quality, including various chemical attributes. It can be used for binary classification tasks like predicting whether a wine is good or bad quality."
+
+"3. Mushroom Classification Dataset
+Link: https://www.kaggle.com/datasets/uciml/mushroom-classification   
+Description: This dataset contains information about mushrooms, including their features. It's a suitable dataset for binary classification tasks like predicting whether a mushroom is poisonous or edible."
+
+"4. Customer Satisfaction Dataset
+Link: https://www.kaggle.com/datasets/ahmedaliraja/customer-satisfaction-10k
+Description: This dataset contains information about customer satisfaction ratings and various attributes related to customer interactions. It can be used to predict customer satisfaction using logistic regression."
+
+"5. Bank Marketing Dataset
+Link: https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
+Description: This dataset contains information on various client attributes, marketing campaigns, and whether the client subscribed to a term deposit. It’s a good dataset for binary classification tasks such as predicting if a customer will subscribe to a term deposit based on demographic and campaign data."
+
+"6. Titanic Dataset
+Link: https://www.kaggle.com/c/titanic
+Description: This dataset contains information about passengers on the Titanic, including survival status, age, gender, class, and ticket fare. It's a classic dataset for binary classification using logistic regression."
+
+"7. Breast Cancer Wisconsin Dataset
+Link: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data   
+Description: This dataset contains information about breast cancer tumors, including their features. It's a popular dataset for binary classification tasks like predicting whether a tumor is benign or malignant."
+
+"8. Adult Census Income Dataset:
+Link: https://www.kaggle.com/uciml/adult-census-income
+Description: This dataset contains demographic information about individuals in the US, including age, work experience, education level, and their income classification (greater than or equal to $50K or less than $50K). It's a classic example for binary classification using logistic regression to predict income level."
+
+"9. Iris Flower Classification Dataset:
+Link: https://www.kaggle.com/uciml/iris
+Description: While commonly used for multi-class classification problems (e.g., using decision trees or neural networks), the Iris dataset can also be utilized for logistic regression tasks. By focusing on predicting the species of an Iris flower (e.g., Iris Setosa, Iris Versicolor, Iris Virginica) based on measurements like sepal and petal length/width, students can explore using logistic regression for multi-class classification by constructing one-vs-rest models."
+
+"10. Heart Disease UCI Dataset: This dataset contains information about various medical attributes of patients, including whether or not they have heart disease. It's a suitable dataset for predicting the presence or absence of heart disease using logistic regression.
+Link: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset"
+
+"11. Employee Attrition Dataset: This dataset contains information about employee demographics, job satisfaction, and attrition status. It's a suitable dataset for predicting employee attrition using logistic regression.
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset"
+
+"12. Customer Churn Dataset: This dataset contains information about customer demographics, usage patterns, and churn status. It's a suitable dataset for predicting customer churn using logistic regression.
+Link: https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset
+Sources and related content"
+
+"13. Banknote Authentication Dataset
+Link: https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data
+Description: This dataset contains information about various features extracted from images of banknotes. It can be used for binary classification tasks like predicting whether a banknote is authentic or forged using logistic regression."
+
+"14. Credit Card Fraud Detection Dataset
+Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Description: This dataset contains credit card transactions labeled as fraudulent or legitimate. It’s ideal for binary classification tasks like predicting fraudulent transactions using logistic regression."
