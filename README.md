@@ -162,6 +162,8 @@ Description: This dataset contains data about daily bike rentals and factors inf
 Link: https://www.kaggle.com/datasets/unsdsn/world-happiness
 Description: This dataset contains information about happiness scores and various contributing factors such as GDP per capita, social support, and life expectancy across different countries. It can be used to predict happiness scores based on these features using linear regression."
 
+### Logistic Regression
+
 "1. Diabetes Dataset
 Link: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database   
 Description: This dataset contains information about patients, including their medical attributes. It's a suitable dataset for predicting the presence or absence of diabetes using logistic regression."
