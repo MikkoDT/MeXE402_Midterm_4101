@@ -8,11 +8,12 @@
 This midterm exam is designed to assess your understanding of Linear Regression and Logistic Regression through practical application on real-world datasets. You will work in pairs to explore assigned topics, perform analyses, and document your findings.
 
 ### Day 1: Topic and Dataset Exploration
-Objectives
-Understand your assigned topics and datasets.
-Identify appropriate dependent variables for Linear and Logistic Regression.
-Explain your choices and reasoning to the instructor.
-Activities
+#### Objectives
+- Understand your assigned topics and datasets.
+- Identify appropriate dependent variables for Linear and Logistic Regression.
+- Explain your choices and reasoning to the instructor.
+
+**Activities**
 Dataset Assignment
 
 Each pair will be provided with links to specific datasets suitable for both Linear and Logistic Regression analyses.
